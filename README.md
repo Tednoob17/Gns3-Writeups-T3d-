@@ -637,4 +637,4 @@ dig -x 192.168.1.1
 
 # **Fin du TP**
 
-Réalisé par : [Malick](https://twitter.com/LickosA)
+Réalisé par : [KOUHOUENOU Ted](https://github.com/Tednoob17)
